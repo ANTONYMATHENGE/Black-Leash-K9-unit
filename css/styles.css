@@ -76,7 +76,7 @@ ul>li {
 }
 
 ol>li {
-    text-align: left;
+    align: left
 }
 
 ul>li>a:hover {
